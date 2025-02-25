@@ -1,6 +1,4 @@
-# ⚡ Hello, I'm foxtw00! ⚡
-
-I am a hobbyist and maker. I like fighter jets and foxes! 
+# Welcome 
 
 ![fops](https://github.com/user-attachments/assets/8eb897a6-768b-4726-8984-9d789e6e32cd)
 
