@@ -1,8 +1,8 @@
-# Welcome 
+# Welcome to my GitHub!
 
 ![fops](https://github.com/user-attachments/assets/8eb897a6-768b-4726-8984-9d789e6e32cd)
 
-This is where I'll post my personal projects and research
+This repository serves as a hub for my personal projects, research, and technical explorations.
 
 ## Shenannigans Below
 - Currently Learning: C Programming Language // HTB Academy
